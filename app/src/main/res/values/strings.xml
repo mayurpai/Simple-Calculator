@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Simple Calculator</string>
+    <string name="simple_calculator">SIMPLE CALCULATOR</string>
+    <string name="result">Result</string>
+    <string name="enter_number1">Enter Number 1</string>
+    <string name="enter_number2">Enter Number 2</string>
+    <string name="_0">0</string>
+    <string name="dec">.</string>
+    <string name="plus">+</string>
+    <string name="c">C</string>
+    <string name="eq">=</string>
+    <string name="_2">2</string>
+    <string name="min">-</string>
+    <string name="_1">1</string>
+    <string name="_3">3</string>
+    <string name="_5">5</string>
+    <string name="_4">4</string>
+    <string name="mul">*</string>
+    <string name="div">/</string>
+    <string name="_9">9</string>
+    <string name="_8">8</string>
+    <string name="_7">7</string>
+    <string name="_6">6</string>
+</resources>
